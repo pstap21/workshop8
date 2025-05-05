@@ -1,5 +1,5 @@
 #include "UnitTest.h"
-#include "EquivalnceTests.h"
+#include "EquivalenceTests.h"
 #include "InvoiceTest.h"
 
 int main() {
